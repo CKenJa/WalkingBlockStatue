@@ -1,0 +1,2 @@
+# WalkingBlockStatue
+ブロックで作った石像を歩かして巨大モブを作りたい
